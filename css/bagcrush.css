@@ -134,3 +134,34 @@ footer label {
     color: white;
 	display: inline;
 }
+
+/*********************************************************
+	CSS PAGE ACCUEIL
+*********************************************************/
+#slogan_accueil {
+	text-align: center;
+    color: rgb(223, 144, 174);
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Helvetica Neue;
+}
+
+#search_accueil {
+	margin-bottom: 30px;
+}
+
+#select_story {
+	text-align: center;
+    background-color: black;
+    padding: 5px;
+}
+
+#select_story select {
+	border: none;
+    background-color: black;
+    color: rgb(231, 199, 211);
+    font-family: Helvetica Neue;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
