@@ -1,4 +1,4 @@
-﻿<header>
+<header>
 	<!-- Image logo de Bagcrush -->
 	<a href="/bagcrush"><img id="logo_bagcrush" src="images/logo_bagcrush.png" /></a>
 	
@@ -18,6 +18,6 @@
 		<a class="menu_item" href="#">BAG STORIES</a>
 	</div>
 	<div id="bandeau_noir_header">
-		FREE SHIPPING ON INTERNATIONAL ORDERS ABOVE 150€
+		FREE SHIPPING ON INTERNATIONAL ORDERS ABOVE 150&euro;
 	</div>
 </header>

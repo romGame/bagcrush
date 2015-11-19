@@ -11,8 +11,6 @@ body {
 *********************************************************/
 #logo_bagcrush {
 	float: left;
-    position: relative;
-    left: -25px;
 }
 
 #header_droit {
@@ -63,31 +61,23 @@ body {
 }
 
 #header_menu {
-	height: 25px;
+	height: 30px;
     clear: both;
     position: relative;
     top: -20px;
 	font-weight: bold;
+	margin-left: 5%;
+    width: 95%;
 }
 
 #header_menu .menu_item {
 	display: inline;
-    margin-left: 6%;
+    width: 15%;
     margin-right: 5%;
+    float: left;
 	text-decoration: none;
     color: black;
     font-size: 14px;
-}
-
-@media (min-width: 1325px) {
-	#header_menu .menu_item {
-		display: inline;
-		margin-left: 3em;
-		margin-right: 2em;
-		text-decoration: none;
-		color: black;
-		font-size: 0.85em;
-	}
 }
 
 .count_crush {
@@ -224,4 +214,35 @@ footer label {
     font-size: 13px;
 	padding-bottom: 15px;
     border-bottom: 1px solid rgb(232,232,232);
+}
+
+#product_accueil_block {
+	margin-bottom: 35px;
+	float: left;
+}
+
+#carroussel_bag_home {
+	width: 100%;
+}
+
+.product_home {
+	width: 15%;
+    margin-right: 5%;
+	float: left;
+}
+
+.product_img {
+	width: 100%;
+}
+
+.product_name {
+	text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.product_price {
+	color: rgb(210, 31, 90);
+	font-weight: bold;
+	text-align: center;
 }

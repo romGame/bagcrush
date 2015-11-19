@@ -25,5 +25,32 @@
 	</div>
 </div>
 <div id="product_accueil_block">
-
+	<h1>Newcomers</h1>
+	<div id="carroussel_bag_home">
+		<div class="product_home">
+			<img class="product_img" src="images/products/product_test.png" />
+			<div class="product_name">Bollywood Bazzar Summer tote bag</div>
+			<div class="product_price">120 &euro;</div>
+		</div>
+		<div class="product_home">
+			<img class="product_img" src="images/products/product_test.png" />
+			<div class="product_name">Bollywood Bazzar Summer tote bag</div>
+			<div class="product_price">120 &euro;</div>
+		</div>
+		<div class="product_home">
+			<img class="product_img" src="images/products/product_test.png" />
+			<div class="product_name">Bollywood Bazzar Summer tote bag</div>
+			<div class="product_price">120 &euro;</div>
+		</div>
+		<div class="product_home">
+			<img class="product_img" src="images/products/product_test.png" />
+			<div class="product_name">Bollywood Bazzar Summer tote bag</div>
+			<div class="product_price">120 &euro;</div>
+		</div>
+		<div class="product_home">
+			<img class="product_img" src="images/products/product_test.png" />
+			<div class="product_name">Bollywood Bazzar Summer tote bag</div>
+			<div class="product_price">120 &euro;</div>
+		</div>
+	</div>
 </div>
